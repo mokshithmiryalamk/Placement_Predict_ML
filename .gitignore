@@ -6,4 +6,3 @@ mlruns/
 outputs/
 .env
 src/data/raw_placement_data.csv
-reports/
